@@ -1,0 +1,31 @@
+# Usage: pip install -r requirements.txt
+
+# Base ----------------------------------------
+hydra-core==1.2.0
+matplotlib==3.7.1
+numpy==1.23.5
+opencv-python==4.8.0.76
+Pillow==9.4.0
+PyYAML==6.0.1
+requests==2.31.0
+scipy==1.11.3
+torch==2.1.0+cu118
+torchvision==0.16.0+cu118
+tqdm==4.66.1
+Easyocr
+
+# Logging -------------------------------------
+tensorboard==2.14.1
+
+
+# Plotting ------------------------------------
+pandas==1.5.3
+seaborn==0.12.2
+
+# Extras --------------------------------------
+ipython  # interactive notebook
+psutil  # system utilization
+thop==0.1.1.post2209072238  # FLOPs computation
+
+# HUB -----------------------------------------
+GitPython>=3.1.24
